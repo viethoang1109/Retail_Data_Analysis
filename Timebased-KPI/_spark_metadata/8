@@ -1,0 +1,4 @@
+v1
+{"path":"hdfs://ip-172-31-81-204.ec2.internal:8020/user/hadoop/Timebased-KPI/part-00000-6aa21b47-f4a9-4c54-815b-7d6cffdb4401-c000.json","size":0,"isDir":false,"modificationTime":1722662466805,"blockReplication":1,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-172-31-81-204.ec2.internal:8020/user/hadoop/Timebased-KPI/part-00078-708c76af-66d7-4c89-82de-bbd59faf48b3-c000.json","size":196,"isDir":false,"modificationTime":1722662469116,"blockReplication":1,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-172-31-81-204.ec2.internal:8020/user/hadoop/Timebased-KPI/part-00168-0a386630-2b89-4bee-9d02-a99b1a981b42-c000.json","size":209,"isDir":false,"modificationTime":1722662471786,"blockReplication":1,"blockSize":134217728,"action":"add"}
